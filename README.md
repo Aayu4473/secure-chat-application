@@ -1,12 +1,4 @@
-Here is a **clean, professional README structure** you can paste into your GitHub repo. This format is commonly used in strong student projects and will make your repo look much more polished.
 
-You can add it by clicking **“Add a README”** on GitHub.
-
----
-
-# README.md
-
-```markdown
 # Secure Chat Application
 
 A real-time encrypted messaging application built using Python socket programming with hybrid encryption (RSA + AES) to ensure secure communication between clients.
@@ -153,6 +145,3 @@ Aayushi Tiwari
 B.Tech Computer Science Engineering
 ```
 
-
-
-If you'd like, I can also show you **3 small improvements that make this project look much stronger for recruiters on GitHub (very common in top student portfolios).**
