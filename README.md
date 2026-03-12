@@ -142,6 +142,4 @@ This project uses **Hybrid Encryption**:
 ## Author
 
 Aayushi Tiwari  
-B.Tech Computer Science Engineering
-```
-
+B.Tech Computer Science Engineering 
