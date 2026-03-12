@@ -71,7 +71,7 @@ pip install pycryptodome
 
 ```
 
-git clone [https://github.com/Aayu4473/secure-chat-application.git](https://github.com/Aayu4473/secure-chat-application.git)
+git clone [https://github.com/Aayu4473/secure-chat-application.git]
 cd secure-chat-application
 
 ```
